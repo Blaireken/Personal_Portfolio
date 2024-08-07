@@ -1,7 +1,7 @@
 import { Container, Row, Col, Nav, Tab} from "react-bootstrap";
-import projImg1 from "../assets/img/project-img1.png";
-import projImg2 from "../assets/img/project-img2.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg1 from "../assets/img/projImg1.jpg";
+import projImg2 from "../assets/img/projImg2.jpg";
+import projImg3 from "../assets/img/projImg3.jpg";
 import { ProjectsCard } from "./ProjectsCard";
 import colorsharp2 from "../assets/img/color-sharp2.png";
 
@@ -9,22 +9,22 @@ export const Projects = () =>{
 
     const projects = [
         {
-            title: "SaS Website",
+            title: "Medspace App",
             description: "Design & Development",
             imgUrl: projImg1,
         },
         {
-            title: "SaS Website",
+            title: "Medspace App",
             description: "Design & Development",
             imgUrl: projImg2,
         },
         {
-            title: "SaS Website",
+            title: "Medspace App",
             description: "Design & Development",
             imgUrl: projImg3,
         },
         {
-            title: "SaS Website",
+            title: "Medspace App",
             description: "Design & Development",
             imgUrl: projImg1,
         },
